@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj": {}
+    "c:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj": {
+    "c:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
+        "projectUniqueName": "c:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
         "projectName": "Portfolio.Client",
-        "projectPath": "C:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
+        "projectPath": "c:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
         "packagesPath": "C:\\Users\\kimbl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio.Client\\obj\\",
+        "outputPath": "c:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kimbl\\AppData\\Roaming\\NuGet\\NuGet.Config",

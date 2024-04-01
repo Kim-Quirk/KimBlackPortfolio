@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yLKy4GK2giKDLI8C2RNQFoOIsxCdd2tMhm+elNF1M1DywuwiwMobXIik4AlOdGUr9O0ownaMURg58LZy9cZxYQ==",
+  "dgSpecHash": "p4pQ5BAsSpYuHIFy3BERFrdArH+hY5WPXmUYD5wzpIzIjkJMVaLKUlmQrqh2tEtDLonOW8eP4soJWZ9yoIuF/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio\\Portfolio.csproj",
+  "projectFilePath": "c:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio\\Portfolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kimbl\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.3\\microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
     "C:\\Users\\kimbl\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.3\\microsoft.aspnetcore.components.8.0.3.nupkg.sha512",

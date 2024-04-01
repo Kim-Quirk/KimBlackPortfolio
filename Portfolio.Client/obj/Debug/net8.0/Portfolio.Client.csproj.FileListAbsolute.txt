@@ -1041,3 +1041,4 @@ c:\Users\kimbl\Coding Projects\C# Learning\Portfolio\Portfolio.Client\obj\Debug\
 c:\Users\kimbl\Coding Projects\C# Learning\Portfolio\Portfolio.Client\obj\Debug\net8.0\refint\Portfolio.Client.dll
 c:\Users\kimbl\Coding Projects\C# Learning\Portfolio\Portfolio.Client\obj\Debug\net8.0\Portfolio.Client.pdb
 c:\Users\kimbl\Coding Projects\C# Learning\Portfolio\Portfolio.Client\obj\Debug\net8.0\ref\Portfolio.Client.dll
+c:\Users\kimbl\Coding Projects\C# Learning\Portfolio\Portfolio.Client\obj\Debug\net8.0\Portfolio.Client.sourcelink.json

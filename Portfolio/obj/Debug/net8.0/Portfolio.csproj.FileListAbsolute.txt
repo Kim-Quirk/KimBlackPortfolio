@@ -56,3 +56,4 @@ c:\Users\kimbl\Coding Projects\C# Learning\Portfolio\Portfolio\obj\Debug\net8.0\
 c:\Users\kimbl\Coding Projects\C# Learning\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.pdb
 c:\Users\kimbl\Coding Projects\C# Learning\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.genruntimeconfig.cache
 c:\Users\kimbl\Coding Projects\C# Learning\Portfolio\Portfolio\obj\Debug\net8.0\ref\Portfolio.dll
+c:\Users\kimbl\Coding Projects\C# Learning\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.sourcelink.json

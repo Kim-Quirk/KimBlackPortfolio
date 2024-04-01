@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CRwWKpOey++IrKVy5gVP2fO3KtzFziAWqz2VsDZ6GKk=",
+  "Hash": "HoX7C2STaLKTgfRSZwxnJXSBS9C8XZFOIrJ7GzoUiH4=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -8014,6 +8014,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "c:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio\\wwwroot\\index.html",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\kimbl\\Coding Projects\\C# Learning\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
     }
   ]
 }
