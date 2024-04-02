@@ -31,6 +31,10 @@ app.UseAntiforgery();
 
 app.MapRazorComponents<App>()
     .AddInteractiveWebAssemblyRenderMode()
-    .AddAdditionalAssemblies(typeof(Counter).Assembly);
+    .AddAdditionalAssemblies(typeof(Projects).Assembly);
+
+    // app.MapRazorComponents<App>()
+    // .AddInteractiveWebAssemblyRenderMode()
+    // .AddAdditionalAssemblies(typeof(Counter).Assembly);
 
 app.Run();
